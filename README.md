@@ -1,4 +1,13 @@
 # Conversor de Moedas
+
+## Descrição:
+O conversor de moedas converte dólares em reais.
+Este projeto foi desenvolvido durante a Imersão Dev da Alura. Utilizei como ferramenta o Codepen e as linguagens:
+- Javascript
+- HTML
+- CSS
+
+## Onde encontrar:
 Clique no link para usar o conversor: 
 https://codepen.io/vivianeantonio/full/YzQrLWE
 
